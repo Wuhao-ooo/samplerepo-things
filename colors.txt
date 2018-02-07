@@ -1,3 +1,4 @@
+COLORS:
 blue
 red
 yellow
